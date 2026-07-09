@@ -1,6 +1,6 @@
-# 📚 Personal Computer Science Book Library
+#  Computer Science Book Library
 
-## 💻 C++
+##   C++
 
 - Accelerated C++ — Andrew Koenig & Barbara E. Moo
 - C++ Primer (5th Edition) — Stanley B. Lippman, Josée Lajoie & Barbara E. Moo
@@ -9,7 +9,7 @@
 
 ---
 
-## ⚙️ Compilers & Programming Languages
+##   Compilers & Programming Languages
 
 - Compilers: Principles, Techniques, and Tools (2nd Edition) — Alfred V. Aho, Monica S. Lam, Ravi Sethi & Jeffrey D. Ullman
 - Crafting Interpreters — Robert Nystrom
@@ -19,7 +19,7 @@
 
 ---
 
-## 🖥️ Computer Systems & Architecture
+##   Computer Systems & Architecture
 
 - Advanced Programming in the UNIX Environment (3rd Edition) — W. Richard Stevens & Stephen A. Rago
 - Code: The Hidden Language of Computer Hardware and Software — Charles Petzold
@@ -36,7 +36,7 @@
 
 ---
 
-## 📐 Data Structures & Algorithms
+##   Data Structures & Algorithms
 
 - Algorithm Design — Jon Kleinberg & Éva Tardos
 - Algorithms (4th Edition) — Robert Sedgewick & Kevin Wayne
@@ -49,14 +49,14 @@
 
 ---
 
-## ☕ Java
+##   Java
 
 - Effective Java (3rd Edition) — Joshua Bloch
 - Head First Java (2nd Edition) — Kathy Sierra & Bert Bates
 
 ---
 
-## 🐍 Python
+##   Python
 
 - Automate the Boring Stuff with Python — Al Sweigart
 - Python Crash Course (3rd Edition) — Eric Matthes
